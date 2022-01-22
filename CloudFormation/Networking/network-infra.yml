@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Gytis Lazaitis / This is a Lesson 3 template
+Description: Gytis / Network Infrastructure
 
 Parameters:
 
