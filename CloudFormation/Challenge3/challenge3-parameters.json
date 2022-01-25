@@ -1,0 +1,14 @@
+[
+  {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "Challenge3"
+  },
+  {
+    "ParameterKey": "NetworkEnvironmentName",
+    "ParameterValue": "Challenge2"
+},
+  {
+    "ParameterKey": "AMIId",
+    "ParameterValue": "ami-08e4e35cccc6189f4"
+  }
+]

@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name Challenge3 --region=us-east-1 --template-body file://challenge3.yml --parameters file://challenge3-parameters.json --capabilities "CAPABILITY_IAM" "CAPABILITY_NAMED_IAM"
